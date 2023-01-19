@@ -19,4 +19,6 @@ int main() {
     Vector3D cross = crossProduct(v1, v2);
     std::cout << "(" << cross.x << ", " << cross.y << ", " << cross.z << ")" << std::endl;
     return 0;
+
+    std::cout << "•ÏXŒã!\n";
 }
